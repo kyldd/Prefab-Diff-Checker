@@ -1,0 +1,18 @@
+{
+  "name": "com.kyldd.prefab-diff-checker",
+  "version": "1.0.0",
+  "displayName": "Prefab Diff Checker",
+  "description": "A readable way to see what actually changed inside a Unity prefab.",
+  "unity": "2019.4",
+  "author": {
+    "name": "Rutuj Marathe",
+    "url": "https://github.com/kyldd"
+  },
+  "keywords": [
+    "unity",
+    "prefab",
+    "git",
+    "diff",
+    "editor"
+  ]
+}
